@@ -1,0 +1,57 @@
+[INFO ] 12-02-2023 10:29:08.336 TC001_VerifyDashboardText - Orange HRM application is opened.
+[INFO ] 12-02-2023 10:29:10.890 TC001_VerifyDashboardText - Dashboard text is present
+[INFO ] 12-02-2023 10:29:11.618 TC001_VerifyDashboardText - Orange HRM application is closed
+[INFO ] 12-02-2023 10:31:33.794 TC002_NumberOfLinks - Orange HRM application is opened.
+[INFO ] 12-02-2023 10:31:34.302 TC002_NumberOfLinks - Total number of links on Login Page is -5
+[INFO ] 12-02-2023 10:31:35.274 TC002_NumberOfLinks - Orange HRM application is closed
+[INFO ] 12-02-2023 10:31:39.515 TC001_VerifyDashboardText - Orange HRM application is opened.
+[INFO ] 12-02-2023 10:31:41.970 TC001_VerifyDashboardText - Dashboard text is present
+[INFO ] 12-02-2023 10:31:43.005 TC001_VerifyDashboardText - Orange HRM application is closed
+[INFO ] 12-02-2023 10:37:51.340 TC002_NumberOfLinks - Edge browser is launched
+[INFO ] 12-02-2023 10:37:53.734 TC002_NumberOfLinks - Orange HRM application is opened.
+[INFO ] 12-02-2023 10:37:54.151 TC002_NumberOfLinks - Total number of links on Login Page is -5
+[INFO ] 12-02-2023 10:37:55.072 TC002_NumberOfLinks - Orange HRM application is closed
+[INFO ] 12-02-2023 10:37:56.649 TC001_VerifyDashboardText - Edge browser is launched
+[INFO ] 12-02-2023 10:37:59.125 TC001_VerifyDashboardText - Orange HRM application is opened.
+[INFO ] 12-02-2023 10:38:01.589 TC001_VerifyDashboardText - Dashboard text is present
+[INFO ] 12-02-2023 10:38:02.345 TC001_VerifyDashboardText - Orange HRM application is closed
+[INFO ] 12-02-2023 10:46:27.673 TC002_NumberOfLinks - Edge browser is launched
+[INFO ] 12-02-2023 10:46:30.000 TC002_NumberOfLinks - Orange HRM application is opened.
+[INFO ] 12-02-2023 10:46:30.415 TC002_NumberOfLinks - Total number of links on Login Page is -5
+[INFO ] 12-02-2023 10:46:31.332 TC002_NumberOfLinks - Orange HRM application is closed
+[INFO ] 12-02-2023 10:46:32.814 TC001_VerifyDashboardText - Edge browser is launched
+[INFO ] 12-02-2023 10:46:35.272 TC001_VerifyDashboardText - Orange HRM application is opened.
+[INFO ] 12-02-2023 10:46:37.569 TC001_VerifyDashboardText - Dashboard text is present
+[INFO ] 12-02-2023 10:46:38.441 TC001_VerifyDashboardText - Orange HRM application is closed
+[INFO ] 12-02-2023 10:48:46.086 TC002_NumberOfLinks - Edge browser is launched
+[INFO ] 12-02-2023 10:48:48.561 TC002_NumberOfLinks - Orange HRM application is opened.
+[INFO ] 12-02-2023 10:48:49.041 TC002_NumberOfLinks - Total number of links on Login Page is -5
+[INFO ] 12-02-2023 10:48:50.229 TC002_NumberOfLinks - Orange HRM application is closed
+[INFO ] 12-02-2023 10:48:51.854 TC001_VerifyDashboardText - Edge browser is launched
+[INFO ] 12-02-2023 10:48:54.337 TC001_VerifyDashboardText - Orange HRM application is opened.
+[INFO ] 12-02-2023 10:48:56.869 TC001_VerifyDashboardText - Dashboard text is present
+[INFO ] 12-02-2023 10:48:57.734 TC001_VerifyDashboardText - Orange HRM application is closed
+[INFO ] 12-02-2023 10:51:05.728 TC002_NumberOfLinks - Edge browser is launched
+[INFO ] 12-02-2023 10:51:08.083 TC002_NumberOfLinks - Orange HRM application is opened.
+[INFO ] 12-02-2023 10:51:08.533 TC002_NumberOfLinks - Total number of links on Login Page is -5
+[INFO ] 12-02-2023 10:51:09.318 TC002_NumberOfLinks - Orange HRM application is closed
+[INFO ] 12-02-2023 10:51:10.839 TC001_VerifyDashboardText - Edge browser is launched
+[INFO ] 12-02-2023 10:51:13.613 TC001_VerifyDashboardText - Orange HRM application is opened.
+[INFO ] 12-02-2023 10:51:16.110 TC001_VerifyDashboardText - Dashboard text is present
+[INFO ] 12-02-2023 10:51:16.896 TC001_VerifyDashboardText - Orange HRM application is closed
+[INFO ] 12-02-2023 10:51:43.355 TC002_NumberOfLinks - Edge browser is launched
+[INFO ] 12-02-2023 10:51:46.207 TC002_NumberOfLinks - Orange HRM application is opened.
+[INFO ] 12-02-2023 10:51:46.720 TC002_NumberOfLinks - Total number of links on Login Page is -5
+[INFO ] 12-02-2023 10:51:47.571 TC002_NumberOfLinks - Orange HRM application is closed
+[INFO ] 12-02-2023 10:51:49.269 TC001_VerifyDashboardText - Edge browser is launched
+[INFO ] 12-02-2023 10:51:51.680 TC001_VerifyDashboardText - Orange HRM application is opened.
+[INFO ] 12-02-2023 10:51:54.130 TC001_VerifyDashboardText - Dashboard text is present
+[INFO ] 12-02-2023 10:51:54.958 TC001_VerifyDashboardText - Orange HRM application is closed
+[INFO ] 12-02-2023 10:58:09.950 TC002_NumberOfLinks - Edge browser is launched
+[INFO ] 12-02-2023 10:58:20.242 TC002_NumberOfLinks - Orange HRM application is opened.
+[INFO ] 12-02-2023 10:58:20.976 TC002_NumberOfLinks - Total number of links on Login Page is -5
+[INFO ] 12-02-2023 10:58:21.801 TC002_NumberOfLinks - Orange HRM application is closed
+[INFO ] 12-02-2023 10:58:23.416 TC001_VerifyDashboardText - Edge browser is launched
+[INFO ] 12-02-2023 10:58:26.475 TC001_VerifyDashboardText - Orange HRM application is opened.
+[INFO ] 12-02-2023 10:58:29.052 TC001_VerifyDashboardText - Dashboard text is present
+[INFO ] 12-02-2023 10:58:29.872 TC001_VerifyDashboardText - Orange HRM application is closed
